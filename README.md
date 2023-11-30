@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently developing a lot of website and mobile application.
 
-- 💞️ "Stay hungry and stay foolish" is my belief.
-
 - 📫 How to reach me **iceking0109@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
